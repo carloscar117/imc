@@ -1,12 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 
-import { StyleSheet, Text, TextInput, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, Image, ImageBackground, TextInput, View, TouchableOpacity } from 'react-native';
 
 import React, {Component} from 'react';
 
 type Props ={};
 
 export default class App extends Component<Props>{
+  
 
   constructor(props){
 
@@ -104,9 +105,9 @@ export default class App extends Component<Props>{
 
      <View style={styles.entradas}>
 
-      <TextInput placeholder='Altura ' keyboardType='numeric' style={styles.input} onChangeText={(massa)=>{this.setState({massa})}}/>
+      <TextInput placeholder='Altura ' keyboardType='numeric' style={styles.input} onChangeText={(altura)=>{this.setState({altura})}}/>
 
-      <TextInput placeholder='Massa ' keyboardType='numeric'  style={styles.input} onChangeText={(altura)=>{this.setState({altura})}}/>
+      <TextInput placeholder='Massa ' keyboardType='numeric'  style={styles.input} onChangeText={(massa)=>{this.setState({massa})}}/>
 
       </View>
 
@@ -127,6 +128,8 @@ export default class App extends Component<Props>{
 const styles = StyleSheet.create({
 
   container: {
+
+   
 
     flex: 1,
 
