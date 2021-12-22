@@ -10,7 +10,5 @@
 <code>
 <img src="https://github.com/carloscar117/imc/tree/master/assets/img2.jpeg" height="490px">
 </code>
-<code>
-<img src="https://github.com/carloscar117/imc/tree/master/assets/img3.jpeg" height="490px">
-</code>
+
 </p>
