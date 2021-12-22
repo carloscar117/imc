@@ -8,7 +8,6 @@
 <img src="https://github.com/carloscar117/imc/tree/master/assets/img1.jpeg" height="490px">
 </code>
 <code>
-<img src="https://github.com/carloscar117/imc/tree/master/assets/img2.jpeg" height="490px">
+<img src="https://github.com/carloscar117/imc/tree/master/assets/img2.jpeg">
 </code>
-
 </p>
