@@ -2,7 +2,9 @@
  CALCULADORA IMC
  
  Com esse app de IMC você pode calcular e avaliar seu índice de massa de corpo.
- ![Alt text](/imc/tree/master/assets/img1.jpeg?raw=true "Optional Title")
+ 
+ ![alt text](https://github.com/carloscar117/imc/tree/master/assets/img1.jpeg)
+
 
 <p align="left">
 <code>
